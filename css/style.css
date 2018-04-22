@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*figuar start*/
+.figuar{
+    min-height: 400px;
+    width: auto;
+    overflow: hidden;
+    background-image: url(../images/background%20pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    overflow: hidden;
+    width: 90%;
+    margin: 0 auto;
+    min-height: 360px;
+    margin-top: 30px;
+    border: 2px solid #E2E2E2;
+}
+.header_one{
+    min-height: 70px;
+    width: auto;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+.header_logo{
+    min-height: 70px;
+    width: 30%;
+    float: left;
+}
+.nav{
+    width: 60%;
+    float:right; 
+}
+.nav ul{
+    float: right;
+}
+.nav ul li{
+    float: left;
+    list-style: none;
+}
+.nav ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    margin-top: 25px;
+    transition: .5s;
+    color: black;
+}
+.nav ul a:hover{
+    color: blue;
+}
+
+.header_two{
+    min-height: 300px;
+    width: auto;
+    background-image: url(../images/background%20pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.content_box{
+    min-height: 200px;
+    background-color: #77889F;
+    width: 30%;
+    float: right;
+    margin-top: 30px;
+    text-align: center;
+    margin-right: 30px;
+    overflow: hidden;
+       background-color: rgba(10,7,60,.5);
+}
+.pera_box{
+    min-height: 60px;
+    width: auto;
+    text-align: center;
+}
+/*figuar end*/
+/*footer start*/
+.footer{
+    min-height: 450px;
+    width: auto;
+    overflow: hidden;
+}
+.field{
+    overflow: hidden;
+    min-height: 400px;
+    width: 90%;
+    border: 2px solid #E2E2E2;
+    margin: 0 auto;
+}
+.footer_one{
+    overflow: hidden;
+    min-height: 250px;
+    width: auto;
+}
+.single_box{
+    min-height: 200px;
+    width: 30%;
+    overflow: hidden;
+    float: left;
+    padding: 26px 20px;
+}
+.pera_one{
+    text-align: center;
+    min-height: 80px;
+    width: auto;
+}
+.pera_two{
+     text-align: center;
+    min-height: 80px;
+    width: auto;
+}
+.pera_three{
+    text-align: center; 
+    color: white;
+}
+.footer_two{
+    min-height: 130px;
+    width: auto;
+    overflow: hidden;
+}
+.footer_content{
+    min-height: 100px;
+    width: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.footer_text{
+    text-align: center;
+}
+footer_image{
+    min-height: 30px;
+    width: auto;
+}
+.image_box{
+    margin: 0 auto;
+    margin-top: 15px;
+    padding-left: 220px;
+}
+/*footer end*/
